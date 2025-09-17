@@ -1,4 +1,4 @@
-# Dependencias de Node 
+# Dependencias de Node = alamacena fisicamente las dependencias y puede ser muy pesada
 /node_modules 
 
 # Resultados y reportes de Playwright 
@@ -15,3 +15,10 @@
 
 # Otros 
 npm-debug.log*
+
+# Playwright
+node_modules/
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
