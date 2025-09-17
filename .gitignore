@@ -1,0 +1,14 @@
+# Dependencias de Node 
+/node_modules 
+
+# Resultados y reportes de Playwright 
+/test-results 
+/playwright-report 
+/videos 
+/screenshots 
+
+# Archivos de configuración de VS Code .vscode/ # Archivos de entorno local ..
+.env.local 
+
+# Otros 
+npm-debug.log*
